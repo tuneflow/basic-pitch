@@ -12,7 +12,7 @@
         "en": "All-purpose Audio-to-MIDI Transcription"
       },
       "pluginDescription": {
-        "zh": "将任意音频转录为MIDI音符，该插件适合单乐器音频。",
+        "zh": "将任意音频转录为MIDI音符，适合单乐器音频。",
         "en": "Transcribe any audio (preferrably single source) into MIDI notes"
       },
       "version": "1.0.0",
