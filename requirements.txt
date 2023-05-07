@@ -1,2 +1,2 @@
 basic-pitch>=0.2.3
-tuneflow-devkit-py>=0.5.0
+tuneflow-devkit-py>=0.7.0
